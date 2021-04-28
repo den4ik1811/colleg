@@ -1,2 +1,2 @@
-# colleg
+# college
 My colleg project
